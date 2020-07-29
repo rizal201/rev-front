@@ -25,7 +25,7 @@
 }
 
 .nav {
-    padding: 135px;
+    padding: 3rem;
 }
 
 .play1 {
@@ -39,7 +39,7 @@
 }
 
 .about {
-    margin-top: 20rem;
+    margin-top: 7rem;
 }
 
 .service {
@@ -48,8 +48,9 @@
 }
 
 .hr {
-    height: 3;
+    height: 2px;
     width: 36px;
+    background-color: #757575;
 }
 
 .dono {
@@ -66,8 +67,13 @@
     padding-top: 6rem;
 }
 
+.card {
+    box-shadow: 0px 10px 30px 0 rgba(67, 43, 135, 0.1);
+    ;
+}
+
 .circle {
-    margin-left: 500px;
+    margin-left: 475px;
     opacity: 0.5;
     color: #1d3954;
 }
@@ -79,7 +85,7 @@
 }
 
 .circle2 {
-    margin-left: -200px;
+    margin-left: -175px;
     opacity: 0.5;
     color: #1d3954;
 }
@@ -109,6 +115,7 @@
 }
 
 .p {
+    font-weight: 800;
     color: white;
     font-weight: 400;
     padding: 2px;
